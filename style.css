@@ -1,0 +1,26 @@
+.section {
+    background-color:yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:  auto 150px;
+    padding: 10px;
+    
+}
+body{
+    background-color: crimson;
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    text-align: center;
+    color:antiquewhite ;
+    padding-top: 10px;
+}
+.submit{
+    color:chocolate;
+    padding: 20px;
+    margin: 10px;
+    font-weight: bolder;
+    background-color: brown;
+    border-radius: 8px;
+}
